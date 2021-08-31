@@ -69,7 +69,7 @@ The AUC Curve is 0.67 in a 0 to 1 scale which indicates a good model.
 
 ## **Step 4: Final Prediction**
 
-[image](https://user-images.githubusercontent.com/25548019/131577762-8946d851-34bb-434e-80f7-a4c0ab94fdb7.png)
+![image](https://user-images.githubusercontent.com/25548019/131577762-8946d851-34bb-434e-80f7-a4c0ab94fdb7.png)
 
 This is the final prediction where 0 indicates the probability of not having a heart disease and 1 is the probability of having the heart disease for a particular person in the next 10 years. 
 
@@ -78,4 +78,4 @@ It is important to note that the dataset was initially split into Train(90%), Va
 
 ## **Conclusion**
 
-The Backward Selection Model is selected as it produces more accurate output than the Baseline Model. The model can be used on any new data and would be extremely helpful to predict the disease beforehand and act on it in a timely manner to reduce the effects or avoid suffering form it altogether.
+The **Backward Selection Model** is selected as it produces more accurate output than the Baseline Model. The model can be used on any new data and would be extremely helpful to predict the disease beforehand and act on it in a timely manner to reduce the effects or avoid suffering form it altogether.

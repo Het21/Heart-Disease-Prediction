@@ -76,6 +76,6 @@ This is the final prediction where 0 indicates the probability of not having a h
 It is important to note that the dataset was initially split into Train(90%), Validate(5%) and Test(5%) dataset. The Final Prediction consists of predictions made from the test dataset.
 
 
-## **Conclusion**
+## **Final Decision**
 
 The **Backward Selection Model** is selected as it produces more accurate output than the Baseline Model. The model can be used on any new data and would be extremely helpful to predict the disease beforehand and act on it in a timely manner to reduce the effects or avoid suffering form it altogether.
